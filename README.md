@@ -1,6 +1,6 @@
 # IT326-group5
-section : 77683
-Students:
+section : 77683 \n
+Students:\n
 Arwa Almutairi 	444201055
 Hatoun Almogherah	444203015
 Haya alfayez 	444200858
